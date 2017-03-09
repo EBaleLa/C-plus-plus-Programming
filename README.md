@@ -1,7 +1,7 @@
 # อบรมการเขียนโปรแกรมภาษาซี สำหรับแข่งขัน พจนก 2017
 ## วันที่ 9 มีนาคม 2560
 ### Suwat Tachaphetpiboon
-1. Shift bit
+1. [Shift bit](https://github.com/suwat9/CProgramming/blob/master/codes/ShiftBit.cpp)
 1. Factorial
 1. GCD & LCD
 
