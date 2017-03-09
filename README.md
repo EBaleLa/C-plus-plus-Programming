@@ -6,4 +6,4 @@
    1. Item 3b
 
 
-[Format String](https://guides.github.com/features/mastering-markdown/)
+[รูปแบบการพิมพ์ใน README](https://guides.github.com/features/mastering-markdown/)
