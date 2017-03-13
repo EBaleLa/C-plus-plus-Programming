@@ -4,6 +4,8 @@
 1. [Shift bit](https://github.com/suwat9/CProgramming/blob/master/codes/ShiftBit.cpp)
 1. Factorial
 1. GCD & LCD
+1. [String Manipulation](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
+1. [Date & Time](https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm)
 
 
 
