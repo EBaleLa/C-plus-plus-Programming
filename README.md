@@ -8,6 +8,7 @@
 1. [String Manipulation](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 1. [Pointer](http://www.cplusplus.com/doc/tutorial/pointers/)
 1. [Arrays](http://www.cplusplus.com/doc/tutorial/arrays/) and [Arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
+1. [Type Casting](http://www.cplusplus.com/doc/tutorial/typecasting/)
 1. [Date & Time](https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm)
 1. [Data Structure](https://www.tutorialspoint.com/cplusplus/cpp_data_structures.htm)
 1. [Sort & Search](http://www.programminglogic.com/using-the-built-in-sort-and-search-functions-in-c/)
@@ -15,6 +16,8 @@
 ###------------------ OOP Concepts ------------------------------
 1. [Class I](http://www.cplusplus.com/doc/tutorial/classes/), [Class II](http://www.cplusplus.com/doc/tutorial/templates/)
 1. [Inherited] (http://www.cplusplus.com/doc/tutorial/inheritance/)
+1. [Polymorphism](http://www.cplusplus.com/doc/tutorial/polymorphism/)
+
 1. [Templates Class](http://www.cprogramming.com/tutorial/templates.html)
 
 ###------------------ การแก้ไขปัญหายาก ----------------------------
