@@ -3,6 +3,8 @@
 
 #define SIZE 10
 
+using namespace std;
+
 int compare (const void *elem1, const void *elem2){
     return *(int*)elem1 - *(int*)elem2;
 }
@@ -14,8 +16,8 @@ int main(){
     qsort(array, SIZE, sizeof(int), compare);
 
     for (i=0;i<SIZE;i++)
-        std::cout << array[i] << " ";
-    std::cout << std::endl;
+        cout << array[i] << " ";
+    cout << endl;
 
     return 0;
 
