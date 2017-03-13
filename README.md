@@ -13,7 +13,8 @@
 
 ###------------------ การแก้ไขปัญหายาก ----------------------------
 1. [Numerical Problems & Algorithms](http://www.sanfoundry.com/cpp-programming-examples-numerical-problems-algorithms/)
-
+1. [Graph](http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/)
+1. [Geometry](http://www.sanfoundry.com/cpp-programming-examples-computational-geometry-problems-algorithms/)
 1. [C++ References](http://www.cplusplus.com/reference/cstdlib/)
 1. [Easy Programming Contest] (https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 1. Item 2
