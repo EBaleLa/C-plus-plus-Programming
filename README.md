@@ -6,6 +6,8 @@
 1. [GCD & LCD](http://www.sanfoundry.com/cpp-program-find-gcd-lcm-n-numbers/)
 1. [CString--Old string manipulation](http://www.cplusplus.com/reference/cstring/)
 1. [String Manipulation](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
+1. [Pointer](http://www.cplusplus.com/doc/tutorial/pointers/)
+1. [Arrays](http://www.cplusplus.com/doc/tutorial/arrays/) [Arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
 1. [Date & Time](https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm)
 1. [Data Structure](https://www.tutorialspoint.com/cplusplus/cpp_data_structures.htm)
 1. [Sort & Search](http://www.programminglogic.com/using-the-built-in-sort-and-search-functions-in-c/)
