@@ -17,10 +17,10 @@
 1. [Geometry](http://www.sanfoundry.com/cpp-programming-examples-computational-geometry-problems-algorithms/)
 1. [C++ References](http://www.cplusplus.com/reference/cstdlib/)
 1. [Easy Programming Contest] (https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
+
+1. Item test1
+   1. Sub-Item 1a
+   1. Sub-Item 1b
 
 
 [รูปแบบการพิมพ์ใน README](https://guides.github.com/features/mastering-markdown/)
