@@ -6,17 +6,6 @@
 1. [GCD & LCD](http://www.sanfoundry.com/cpp-program-find-gcd-lcm-n-numbers/)
 1. [String Manipulation](https://www.tutorialspoint.com/cplusplus/cpp_strings.htm)
 1. [Date & Time](https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm)
-
-
-
-
-
-
-
-
-
-
-
 1. [Easy Programming Contest] (https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 1. Item 2
 1. Item 3
