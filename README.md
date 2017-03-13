@@ -1,6 +1,5 @@
 # อบรมการเขียนโปรแกรมภาษาซี สำหรับแข่งขัน พจนก 2017
-## วันที่ 9 มีนาคม 2560
-### Suwat Tachaphetpiboon
+### วันที่ 9 มีนาคม 2560 (Suwat Tachaphetpiboon)
 # General C++
 1. [Shift bit](https://github.com/suwat9/CProgramming/blob/master/codes/ShiftBit.cpp)
 1. [Factorial](http://stackoverflow.com/questions/5721796/how-do-you-implement-the-factorial-function-in-c)
