@@ -16,7 +16,7 @@
 ###------------------ OOP Concepts ------------------------------
 1. [Class I](http://www.cplusplus.com/doc/tutorial/classes/), [Class II](http://www.cplusplus.com/doc/tutorial/templates/)
 1. [Member](http://www.cplusplus.com/doc/tutorial/classes2/)
-1. [Inherited] (http://www.cplusplus.com/doc/tutorial/inheritance/)
+1. [Inherited](http://www.cplusplus.com/doc/tutorial/inheritance/)
 1. [Polymorphism](http://www.cplusplus.com/doc/tutorial/polymorphism/)
 1. [Templates Class](http://www.cprogramming.com/tutorial/templates.html)
 1. [Standard Template Library/STL](http://www.studytonight.com/cpp/stl/stl-introduction)
@@ -31,7 +31,9 @@
 1. [C++ Docs](http://www.cplusplus.com/doc/tutorial/)
 
 ###------------------ ตัวอย่างโจทย์ปัญหา ---------------------------
-1. [Easy Programming Contest] (https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
+1. [CodeChef Easy](https://www.codechef.com/problems/easy)
+1. [UD Unnamed Internet Contest](https://www.eecis.udel.edu/~breech/contest/problems/)
+1. [Easy Programming Contest](https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 
 1. Item test1
    1. Sub-Item 1a
