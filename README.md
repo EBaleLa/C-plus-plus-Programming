@@ -10,6 +10,7 @@
 1. [Arrays](http://www.cplusplus.com/doc/tutorial/arrays/) and [Arrays](https://www.tutorialspoint.com/cplusplus/cpp_arrays.htm)
 1. [Type Casting](http://www.cplusplus.com/doc/tutorial/typecasting/)
 1. [Date & Time](https://www.tutorialspoint.com/cplusplus/cpp_date_time.htm)
+1. [Read & Write Text File](http://www.cplusplus.com/doc/tutorial/files/)
 1. [Data Structure](https://www.tutorialspoint.com/cplusplus/cpp_data_structures.htm)
 1. [Sort & Search](http://www.programminglogic.com/using-the-built-in-sort-and-search-functions-in-c/)
 
