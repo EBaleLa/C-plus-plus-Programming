@@ -24,7 +24,6 @@
 
 ### ------------------ การแก้ไขปัญหายาก ----------------------------
 1. [Numerical Problems & Algorithms](http://www.sanfoundry.com/cpp-programming-examples-numerical-problems-algorithms/)
-  1.[Dogs and Cats](https://github.com/suwat9/C-plus-plus-Programming/blob/master/codes/cat.cpp)
 1. [Graph](http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/)
 1. [Geometry](http://www.sanfoundry.com/cpp-programming-examples-computational-geometry-problems-algorithms/)
 
@@ -34,6 +33,7 @@
 
 ### ------------------ ตัวอย่างโจทย์ปัญหา ---------------------------
 1. [CodeChef Easy](https://www.codechef.com/problems/easy)
+  1.[Dogs and Cats](https://github.com/suwat9/C-plus-plus-Programming/blob/master/codes/cat.cpp)
 1. [UD Unnamed Internet Contest](https://www.eecis.udel.edu/~breech/contest/problems/)
 1. [Easy Programming Contest](https://tausiq.wordpress.com/easy-programming-problems-with-solutions/)
 
