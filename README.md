@@ -24,7 +24,7 @@
 
 ### ------------------ การแก้ไขปัญหายาก ----------------------------
 1. [Numerical Problems & Algorithms](http://www.sanfoundry.com/cpp-programming-examples-numerical-problems-algorithms/)
-  1. [Dogs and Cats](https://github.com/suwat9/C-plus-plus-Programming/blob/master/codes/cat.cpp)
+  1.[Dogs and Cats](https://github.com/suwat9/C-plus-plus-Programming/blob/master/codes/cat.cpp)
 1. [Graph](http://www.sanfoundry.com/cpp-programming-examples-graph-problems-algorithms/)
 1. [Geometry](http://www.sanfoundry.com/cpp-programming-examples-computational-geometry-problems-algorithms/)
 
